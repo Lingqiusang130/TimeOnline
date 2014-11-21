@@ -14,7 +14,7 @@ import org.ninthgang.time.util.SignUtil;
 /**
  * 核心请求处理类
  * 
- * @author Administrator
+ * @author lhy
  * 
  */
 public class CoreServlet extends HttpServlet {
